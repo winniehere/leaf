@@ -1,0 +1,1 @@
+extract vaults whose debt is bigger than $1000, and calculate their liquadation price.
